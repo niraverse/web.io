@@ -1,0 +1,194 @@
+.index-body{
+    margin: 0%;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+.top-div{
+    background-color: #EAF6F6;
+    width: 100%;
+    text-align: center;
+    
+    
+}
+
+.menubutt{
+    display: inline;
+    position: fixed;
+    right: 0px;
+    width: 5%;
+}
+.menubutt:hover{
+    width: 6%;
+    cursor: pointer;
+}
+
+.top-div h1{
+    font-family:  'Edu VIC WA NT Beginner', cursive;
+    font-size: 3em;
+    margin: auto;
+    color: #66BFBF;
+    line-height: 2em;
+}
+.top-div h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2em;
+    margin: auto;
+    color: #66BFBF;
+}
+
+.mountain{
+    width: 50%  ;
+    margin: auto;
+    display: block;
+}
+
+.cloud1{
+    margin-top: 20px;
+    width: 15%;
+    display: inline-block;
+    position: relative;
+    left: 20%;
+}
+
+.cloud2{
+    width: 15%;
+    display: inline-block;
+    position: relative;
+    right: 25%;
+   
+    
+}
+
+
+.torso{
+    text-align: center;
+}
+.torso h2{
+    color: #66BFBF;
+    
+    font-style: normal;
+}
+.torso h3{
+    color: #66BFBF;
+    font-weight: 600 ;
+}
+.torso p{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.intro-div{
+    text-align: center;
+    margin: auto;
+    margin-top: 30px;
+    
+}
+
+.ppic{
+    width: 25%;
+    
+}
+
+
+
+hr{
+    border-style: dotted;
+    border-top: 0ch;
+    border-width: 7px;
+    width: 4%;
+    height: 0px;
+    border-color: #EAF6F6;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    
+}
+
+.skill-div{
+    text-align: center;    
+}
+
+
+.devskill{
+    width: 50%;
+    margin: auto;
+    text-align: left;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+.devimg{
+    margin-right: 15px;
+    width: 35%;
+    float: left;
+}
+
+
+.desskill{
+    width: 50%;
+    margin: auto;
+    text-align: left;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.desimg{
+    margin-left: 15px;
+    width: 35%;
+    float: right;
+}
+
+.button-contactme {
+   
+    border-color: #66BFBF;
+    border-radius: 10px;
+    border-style: none;
+
+    font-family: 'Montserrat', sans-serif;
+
+    color: #ffffff;
+    font-size: 20px;
+    background: #66BFBF;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+.button-contactme:hover {
+    border-color: #66BFBF;
+    border-radius: 10px;
+    border-style: none;
+
+    font-family: 'Montserrat', sans-serif;
+    cursor: pointer;
+    color: #ffffff;
+    font-size: 20px;
+    background: #407a7a;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+.footer{
+    text-align: center;
+    background-color: #66BFBF;
+    font-family: 'montserrat', sans-serif;
+    margin-top: 6%;
+    padding-bottom: 7%;
+    padding-top: 5%;
+    
+}
+
+.footer a{
+    text-decoration: none;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: #11999E;
+    display: inline-block;
+    font-weight: 500;
+}
+
+.footer a:hover{
+    color: #ffffff;
+}
+
+.footer p{
+    margin-top: 40px;
+    font-size: small;
+    color: #ffffff;
+}
